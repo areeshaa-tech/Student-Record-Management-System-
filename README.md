@@ -111,6 +111,7 @@ The report is automatically saved as **report.txt**.
 - Loops and Conditions
 - Lists and Dictionaries
 - Sorting
+- Downloading colorama library
 - Input Validation
 - Git & GitHub
 
