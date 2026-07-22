@@ -1,0 +1,17 @@
+=====================================
+      STUDENT RECORD REPORT
+=====================================
+
+Report Generated: 23 July 2026 02:23:10 AM
+
+Total Students: 4
+
+Students in Each Department:
+Computer Science: 2
+Economics: 1
+Botany: 1
+
+Highest Scoring Student:
+Roll Number: 104
+Name: Anum
+Marks: 98.0

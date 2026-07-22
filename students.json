@@ -1,0 +1,30 @@
+[
+    {
+        "roll_number": "101",
+        "name": "Ali Raza",
+        "age": 21,
+        "department": "Computer Science",
+        "marks": 91.0
+    },
+    {
+        "roll_number": "102",
+        "name": "Sara Nasir",
+        "age": 23,
+        "department": "Economics",
+        "marks": 78.0
+    },
+    {
+        "roll_number": "103",
+        "name": "Bilal Ashfaq",
+        "age": 22,
+        "department": "Computer Science",
+        "marks": 56.0
+    },
+    {
+        "roll_number": "104",
+        "name": "Anum",
+        "age": 21,
+        "department": "Botany",
+        "marks": 98.0
+    }
+]
